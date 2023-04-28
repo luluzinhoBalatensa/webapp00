@@ -13,8 +13,8 @@ st.header("Engenharia e Arquitetura")
 st.subheader("Bem vindos!")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.image("Alguns projetos já feitos pela nossa equipe ")
+st.info("Alguns projetos já feitos pela nossa equipe ")
 
-st.info("https://projetopronto.com.br/wp-content/uploads/casa_por_do_sol.png")
+imagem = image.open ("https://projetopronto.com.br/wp-content/uploads/casa_por_do_sol.png")
 
 st.warning("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
