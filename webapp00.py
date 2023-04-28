@@ -13,7 +13,7 @@ st.header("Engenharia e Arquitetura")
 st.subheader("Bem vindos!")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Alguns projetos já feitos pela nossa equipe ")
+st.image("Alguns projetos já feitos pela nossa equipe ")
 
 st.info("https://projetopronto.com.br/wp-content/uploads/casa_por_do_sol.png")
 
